@@ -1,0 +1,23 @@
+{
+  "name": "@richardo2016/stylus-bootstrap",
+  "version": "0.0.1-alpha-2e6b3634",
+  "description": "richardo's bootstrap stylus.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardo2016/lib-stylus-bootstrap"
+  },
+  "keywords": [
+    "stylus",
+    "bootstrap"
+  ],
+  "author": "Chen Lei <richardo2016@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richardo2016/lib-stylus-bootstrap/issues"
+  },
+  "homepage": "https://github.com/richardo2016/lib-stylus-bootstrap#readme"
+}
